@@ -47,7 +47,7 @@ function clique() {
         }
 
         else if(data >= 21 && data < 60) {
-            resu.innerHTML = `Detectamos uma ${mf} jovem de ${data} anos.`
+            resu.innerHTML = `Detectamos uma ${mf} de ${data} anos.`
             pri.style.backgroundColor = 'pink'
         }
 
